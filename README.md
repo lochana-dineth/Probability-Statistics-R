@@ -15,3 +15,5 @@ My Project and Coursework for Probability and Statistics - Done using the R Lang
 
 ![image](https://github.com/lochana-dineth/Probability-Statistics-R/assets/30839724/90c8985c-359d-42f2-a56b-1d93657b580d)
 
+
+
